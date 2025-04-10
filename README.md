@@ -12,14 +12,9 @@ This is a portfolio project designed to simulate a real-time data analysis for a
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](dashboard/Dashboard_Preview.png)
+![Dashboard Preview](Dashboard/Dashboard_Preview.PNG)
 
 ---
 
