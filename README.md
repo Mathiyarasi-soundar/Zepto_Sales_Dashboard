@@ -47,6 +47,6 @@ This is a portfolio project designed to simulate a real-time data analysis for a
 
 **Mathiyarasi S** – Aspiring Data Analyst  
 📩 mathisoundar2004@gmail.com  
-🔗 [LinkedIn Profile](www.linkedin.com/in/mathiyarasi85)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mathiyarasi85/)
 
 ---
